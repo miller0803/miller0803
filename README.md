@@ -30,8 +30,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/miller0803/miller0803/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <p align="left">Social Media</p>
