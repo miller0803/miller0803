@@ -30,7 +30,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/miller0803/miller0803/output/snake.svg" alt="Snake animation" />
+![GitHub Snake Light](https://github.com/miller0803/miller0803/blob/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](https://github.com/miller0803/miller0803/blob/output/github-snake-dark.svg#gh-dark-mode-only)
+
 
 ###
 
