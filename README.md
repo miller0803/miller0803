@@ -30,8 +30,6 @@
 
 ###
 
-![GitHub Snake Light](https://github.com/miller0803/miller0803/blob/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](https://github.com/miller0803/miller0803/blob/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
 ###
